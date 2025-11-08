@@ -1,0 +1,10 @@
+Flask
+Flask-SocketIO
+Flask-SQLAlchemy
+psycopg2-binary
+redis
+gunicorn
+requests
+gevent
+gevent-websocket
+python-dotenv
