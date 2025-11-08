@@ -1,0 +1,24 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+*.pyd
+*.pyo
+
+# Virtual environment
+venv/
+.venv/
+
+# Database
+*.db
+*.sqlite
+/instance/
+
+# Environment variables
+.env
+.flaskenv
+
+# Uploads
+uploads/
+
+# Logs
+*.log
